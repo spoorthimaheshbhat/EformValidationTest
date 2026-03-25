@@ -1,0 +1,33 @@
+E-Form-Automation-BA-QA-Project/
+│
+├── README.md
+├── pom.xml
+│
+├── docs/
+│   ├── FDD.pdf
+│   ├── User_Stories.md
+│   ├── Traceability_Matrix.xlsx
+│   └── Test_Plan.md (optional)
+│
+├── test-cases/
+│   └── Test_Cases.xlsx
+│
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── pages/
+│   │           └── FormPage.java
+│   │
+│   └── test/
+│       └── java/
+│           └── tests/
+│               └── FormTest.java
+│
+├── utils/
+│   └── DriverFactory.java
+│
+├── reports/
+│   └── (test execution reports)
+│
+└── screenshots/
+    └── (UI + test screenshots)
