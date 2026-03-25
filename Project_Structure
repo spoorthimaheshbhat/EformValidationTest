@@ -11,23 +11,7 @@ E-Form-Automation-BA-QA-Project/
 │
 ├── test-cases/
 │   └── Test_Cases.xlsx
-│
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── pages/
-│   │           └── FormPage.java
-│   │
-│   └── test/
-│       └── java/
-│           └── tests/
-│               └── FormTest.java
-│
-├── utils/
-│   └── DriverFactory.java
-│
-├── reports/
-│   └── (test execution reports)
-│
-└── screenshots/
-    └── (UI + test screenshots)
+    └──reports/
+        └── (test execution reports)
+    └── screenshots/
+        └── (UI + test screenshots)
