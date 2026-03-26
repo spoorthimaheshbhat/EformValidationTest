@@ -1,4 +1,4 @@
-# Test-A-Form: Functional Design & Automation Project
+# Test-A-Form: Business Requirements & Automation Project
 
 ## Overview
 This project demonstrates end-to-end analysis, design, and testing of a data capture system using a Google Form. It combines Business Analysis and QA practices to ensure accurate data validation and seamless user interaction.
@@ -17,7 +17,7 @@ To design and validate a structured e-form system ensuring:
 ## My Role
 Business Analyst + QA Engineer
 
-- Created Functional Design Document (FDD)
+- Created Business Requirements Document (BRD)
 - Defined functional requirements and validation rules
 - Designed end-to-end user flow
 - Performed manual and automated testing
@@ -26,7 +26,7 @@ Business Analyst + QA Engineer
 
 ## Project Components
 
-### 1. Functional Design Document
+### 1. Business Requirements Document
 - 7+ functional requirements (FR-01 to FR-07)
 - Scope, assumptions, dependencies
 - UI and data validation mapping
