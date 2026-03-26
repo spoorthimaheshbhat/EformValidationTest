@@ -1,4 +1,4 @@
-# Test-A-Form: Business Requirements & Automation Project
+# Test-A-Form: Business Requirements Design & Test Planning Project
 
 ## Overview
 This project demonstrates end-to-end analysis, design, and testing of a data capture system using a Google Form. It combines Business Analysis and QA practices to ensure accurate data validation and seamless user interaction.
