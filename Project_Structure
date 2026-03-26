@@ -1,13 +1,12 @@
 E-Form-Automation-BA-QA-Project/
 │
 ├── README.md
-├── pom.xml
 │
 ├── docs/
 │   ├── FDD.pdf
 │   ├── User_Stories.md
 │   ├── Traceability_Matrix.xlsx
-│   └── Test_Plan.md (optional)
+│   
 │
 ├── test-cases/
 │   └── Test_Cases.xlsx
